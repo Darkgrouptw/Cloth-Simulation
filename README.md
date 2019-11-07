@@ -1,4 +1,4 @@
-# Cloth-Simulation
+# Cloth Simulation
 ---
 ## Introduction
 Cloth Simulation with Eular, Runge Kutta2 and Runge Kutta4
