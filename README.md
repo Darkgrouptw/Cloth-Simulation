@@ -12,4 +12,4 @@ Each spring-damper connects two particles and generates a force based on the par
 Each particle is also influenced by gravity. With these basic forces, we can form a cloth system.
 
 ## Video Link
-* [Link](https://youtu.be/p2jU4Dcgj5I
+* [Link](https://youtu.be/byPXAFsMgBY)
